@@ -1,4 +1,4 @@
-# AirBnB in Buenos Aires, Argentina
+# Airbnb in Buenos Aires, Argentina
 
 ### Table of Contents
 
