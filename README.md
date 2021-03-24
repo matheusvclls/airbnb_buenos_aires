@@ -43,5 +43,5 @@ The main findings of the code can be found at the post available [here](https://
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to **InsideAirBnB** for the data. You can find out more and get the data of many other city [here](http://insideairbnb.com/get-the-data.html).
+Must give credit to **InsideAirbnb** for the data. You can find out more and get the data of many other city [here](http://insideairbnb.com/get-the-data.html).
 
