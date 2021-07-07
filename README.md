@@ -19,7 +19,7 @@ To run the Juptyer Notebook a proper installation of Anaconda is recommended.
 
 ## Project Motivation<a name="motivation"></a>
 
-This a a beginner project for the Udacity Data Science Nanodegree programm. For this project I was interestested in using Airbnb data of Buenos Aires, Argentina, from February 2021 to February 2022 to better understand:
+This a a beginner project for the Udacity Data Science Nanodegree programm. For this project I am interestested in using Airbnb data of Buenos Aires, Argentina, from February 2021 to February 2022 to better understand:
 
 1. What's the most common acomodation per type of room?
 2. What's the most frequency neighborhood?
